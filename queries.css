@@ -1,0 +1,12 @@
+@media (max-width: 1000px) {
+  body {
+    flex-direction: column;
+  }
+  .sidebar {
+    height: 40vh;
+    flex-basis: 40vh;
+  }
+  /* #map {
+    height: 50vh;
+  } */
+}
