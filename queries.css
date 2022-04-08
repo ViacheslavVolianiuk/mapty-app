@@ -1,7 +1,9 @@
 @media (max-width: 1000px) {
   body {
     flex-direction: column;
+    padding: 0;
   }
+
   .sidebar {
     height: 40vh;
     flex-basis: 40vh;
