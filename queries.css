@@ -5,13 +5,13 @@
   }
 
   .sidebar {
-    height: 45vh;
-    flex-basis: 45vh;
-    padding: 0.5rem 2rem 1rem 2rem !important;
+    height: 42vh;
+    flex-basis: 42vh;
+    padding: 0.5rem 2rem 0.5rem 2rem !important;
   }
   .logo {
-    height: 3rem !important;
-    margin-bottom: 1rem;
+    height: 2.5rem !important;
+    margin-bottom: 0.5rem;
   }
   /* #map {
     height: 50vh;
