@@ -5,8 +5,8 @@
   }
 
   .sidebar {
-    height: 42vh;
-    flex-basis: 42vh;
+    height: 40vh;
+    flex-basis: 40vh;
     padding: 0.5rem 2rem 0.5rem 2rem !important;
   }
   .logo {
